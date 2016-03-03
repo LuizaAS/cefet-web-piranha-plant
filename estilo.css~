@@ -1,7 +1,7 @@
 p {
   color: black;       /* cor do texto */
   font-family: "Arial";
-  text-align: right;   /* centraliza texto */
+  text-align: left;   /* centraliza texto */
 }
 h1{
 	font-family: "Times new roman";
