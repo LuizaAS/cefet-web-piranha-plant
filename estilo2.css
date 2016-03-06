@@ -5,13 +5,16 @@ p {
 }
 h1{
 	font-family: "Times new roman";
-	color: #38761d;
+	color: black;
 	size: 28px;
 }
 h2{
 	font-family: "Times new roman";
 	color: #38761d;
 	size: 24px;
+}
+body {
+  background-image: url(imagens/videira.png);
 }
 
 img {
